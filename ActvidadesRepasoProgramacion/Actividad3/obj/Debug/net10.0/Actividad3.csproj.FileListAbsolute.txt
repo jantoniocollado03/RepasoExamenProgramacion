@@ -1,0 +1,14 @@
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\bin\Debug\net10.0\Actividad3.exe
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\bin\Debug\net10.0\Actividad3.deps.json
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\bin\Debug\net10.0\Actividad3.runtimeconfig.json
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\bin\Debug\net10.0\Actividad3.dll
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\bin\Debug\net10.0\Actividad3.pdb
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\obj\Debug\net10.0\Actividad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\obj\Debug\net10.0\Actividad3.AssemblyInfoInputs.cache
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\obj\Debug\net10.0\Actividad3.AssemblyInfo.cs
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\obj\Debug\net10.0\Actividad3.csproj.CoreCompileInputs.cache
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\obj\Debug\net10.0\Actividad3.dll
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\obj\Debug\net10.0\refint\Actividad3.dll
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\obj\Debug\net10.0\Actividad3.pdb
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\obj\Debug\net10.0\Actividad3.genruntimeconfig.cache
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad3\obj\Debug\net10.0\ref\Actividad3.dll

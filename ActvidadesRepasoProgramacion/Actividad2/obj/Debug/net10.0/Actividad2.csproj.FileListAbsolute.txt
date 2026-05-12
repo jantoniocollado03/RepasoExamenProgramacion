@@ -1,0 +1,4 @@
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad2\obj\Debug\net10.0\Actividad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad2\obj\Debug\net10.0\Actividad2.AssemblyInfoInputs.cache
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad2\obj\Debug\net10.0\Actividad2.AssemblyInfo.cs
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad2\obj\Debug\net10.0\Actividad2.csproj.CoreCompileInputs.cache
