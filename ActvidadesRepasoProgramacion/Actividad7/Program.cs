@@ -11,9 +11,17 @@ namespace Actividad7
         
         public async Task CopiarLogAsync()
         {
-            var rutaOrigen = Path.Combine(System.Environment.CurrentDirectory, "josepoco1.txt");
-            
-            await using FileStream fs = new FileStream(rutaOrigen, FileMode.Open, FileAccess.Read) ;
+            try
+            {
+                using FileStream fso = new FileStream("archivoilog.txt", FileMode.Open);
+                using FileStream fsd = new FileStream("copia.txt", FileMode.Create);
+
+                await fso.CopyToAsync(fsd);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }
