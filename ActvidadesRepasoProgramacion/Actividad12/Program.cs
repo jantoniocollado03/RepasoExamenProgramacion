@@ -1,7 +1,7 @@
 ﻿
 var sensor = new SensorSeguridad();
 
-sensor.AlarmaDisparada += (o, a) =>
+sensor.AlarmaDisparada += (s, a) =>
 {
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine(a.Motivo);

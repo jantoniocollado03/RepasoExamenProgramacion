@@ -12,3 +12,4 @@ C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Act
 C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad5\obj\Debug\net10.0\Actividad5.pdb
 C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad5\obj\Debug\net10.0\Actividad5.genruntimeconfig.cache
 C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad5\obj\Debug\net10.0\ref\Actividad5.dll
+C:\Users\7934546\Desktop\Repaso de Programacion\ActvidadesRepasoProgramacion\Actividad5\obj\Debug\net10.0\Actividad5.sourcelink.json
